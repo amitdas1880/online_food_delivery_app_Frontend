@@ -1,0 +1,7 @@
+npm create vite@latest .
+npm i react-router-dom
+npm i react-hot-toast
+        OR
+npm i react-toastify
+npm install @mui/material @emotion/react @emotion/styled
+npm i axios

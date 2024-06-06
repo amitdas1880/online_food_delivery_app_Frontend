@@ -1,0 +1,19 @@
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+
+
+VVI
+Creation of PAYMENT mode using Razorpay 
+vedio link : https://www.youtube.com/watch?v=A0WMPi_Xej0
+Razorpay site link : https://x.razorpay.com/auth
+
+
+key_id : rzp_test_8DwQYRuTSoPzgp
+key_secret : TltD3J9FB5WdDM1Chj4b8yhA
+
+Card detail :-
+Card Number  : 5267 3181 8797 5449
+Expiry : 05/25
+Card Holder's Name : Amit kumar das
+cvv : 123 
+
